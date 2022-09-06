@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_niem_drug_slang">
+    <sn_niem_drug_slang action="DELETE">
+        <associated_drug>ghb (gamma-hydroxybutyric acid)</associated_drug>
+        <slang>bedtime"</slang>
+        <sys_class_name>sn_niem_drug_slang</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2022-09-06 15:29:46</sys_created_on>
+        <sys_id>5913285147bd115024e32782846d4320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NIEM Drug" source="sn_niem_drug">ab6b3fcd11311110fa9b29f50eded926</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Drug">ab6b3fcd11311110fa9b29f50eded926</sys_scope>
+        <sys_update_name>sn_niem_drug_slang_5913285147bd115024e32782846d4320</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2022-09-06 15:29:46</sys_updated_on>
+    </sn_niem_drug_slang>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NIEM Drug">ab6b3fcd11311110fa9b29f50eded926</application>
+        <file_path/>
+        <instance_id>452b90e0db6919908aea21c40596198f</instance_id>
+        <instance_name>deamosdemo</instance_name>
+        <name>sn_niem_drug_slang_5913285147bd115024e32782846d4320</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_niem_drug_slang"><sn_niem_drug_slang action="INSERT_OR_UPDATE"><associated_drug>ghb (gamma-hydroxybutyric acid)</associated_drug><slang>bedtime"</slang><sys_class_name>sn_niem_drug_slang</sys_class_name><sys_created_by>marc.mouries</sys_created_by><sys_created_on>2022-09-06 15:29:46</sys_created_on><sys_id>5913285147bd115024e32782846d4320</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NIEM Drug" source="sn_niem_drug">ab6b3fcd11311110fa9b29f50eded926</sys_package><sys_policy/><sys_scope display_value="NIEM Drug">ab6b3fcd11311110fa9b29f50eded926</sys_scope><sys_update_name>sn_niem_drug_slang_5913285147bd115024e32782846d4320</sys_update_name><sys_updated_by>marc.mouries</sys_updated_by><sys_updated_on>2022-09-06 15:29:46</sys_updated_on></sn_niem_drug_slang></record_update>]]></payload>
+        <payload_hash>166076756</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1916c451473d115024e32782846d4370</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2022-09-06 15:29:46</sys_created_on>
+        <sys_id>dd13285147bd115024e32782846d4321</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183136bf99f0000001</sys_recorded_at>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2022-09-06 15:29:46</sys_updated_on>
+        <type>Drug Slang</type>
+        <update_guid>19132851ccbd1150a10d84ba45753321</update_guid>
+        <update_guid_history>19132851ccbd1150a10d84ba45753321:166076756</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5e6a241147fd115024e32782846d439c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2022-09-06 16:01:48</sys_created_on>
+        <sys_db_object display_value="" name="sn_niem_drug_slang">sn_niem_drug_slang</sys_db_object>
+        <sys_id>7d6820bbad224ee88d5f276d20527290</sys_id>
+        <sys_metadata>5913285147bd115024e32782846d4320</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NIEM Drug" source="sn_niem_drug">ab6b3fcd11311110fa9b29f50eded926</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Drug">ab6b3fcd11311110fa9b29f50eded926</sys_scope>
+        <sys_scope_delete display_value="">412066780f5c46ba96f1db8dc549bf84</sys_scope_delete>
+        <sys_update_name>sn_niem_drug_slang_5913285147bd115024e32782846d4320</sys_update_name>
+        <sys_update_version display_value="sn_niem_drug_slang_5913285147bd115024e32782846d4320">dd13285147bd115024e32782846d4321</sys_update_version>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2022-09-06 16:01:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
