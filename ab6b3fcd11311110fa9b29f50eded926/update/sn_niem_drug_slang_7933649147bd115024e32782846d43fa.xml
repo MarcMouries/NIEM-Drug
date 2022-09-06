@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_niem_drug_slang">
+    <sn_niem_drug_slang action="INSERT_OR_UPDATE">
+        <associated_drug>cocaine; crack cocaine</associated_drug>
+        <slang>rooster</slang>
+        <sys_class_name>sn_niem_drug_slang</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2022-09-06 15:30:21</sys_created_on>
+        <sys_id>7933649147bd115024e32782846d43fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NIEM Drug" source="sn_niem_drug">ab6b3fcd11311110fa9b29f50eded926</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Drug">ab6b3fcd11311110fa9b29f50eded926</sys_scope>
+        <sys_update_name>sn_niem_drug_slang_7933649147bd115024e32782846d43fa</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2022-09-06 15:30:21</sys_updated_on>
+    </sn_niem_drug_slang>
+</record_update>

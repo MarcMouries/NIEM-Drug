@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Controlled Substance" max_length="40" name="sn_niem_drug_controlled_substance" type="collection">
+        <element choice="3" label="CSA Schedule" max_length="40" name="csa_schedule" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="I" sequence="0" value="I"/>
+                <element inactive_on_update="false" label="II" sequence="1" value="II"/>
+                <element inactive_on_update="false" label="III" sequence="2" value="iii"/>
+                <element inactive_on_update="false" label="IV" sequence="3" value="IV"/>
+                <element inactive_on_update="false" label="V" sequence="4" value="V"/>
+            </choice>
+        </element>
+        <element label="DEA Number" max_length="40" name="dea_number" type="string"/>
+        <element label="Narcotic" max_length="40" name="narcotic" type="boolean"/>
+        <element label="Other names" max_length="40" name="other_names" type="string"/>
+        <element label="Substance" max_length="40" name="substance" type="string"/>
+    </element>
+</database>
