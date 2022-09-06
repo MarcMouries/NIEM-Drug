@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Drug street name" max_length="40" name="sn_niem_drug_street_name" type="collection">
+        <element label="Drug" max_length="50" name="drug" type="string"/>
+        <element label="Street name" max_length="40" name="street_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Imp Tmpl Sn Niem Drug Street Name</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>u_imp_tmpl_sn_niem_drug_street_name</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">6a0e50e04721111024e32782846d4397</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2022-09-06 14:56:56</sys_created_on>
+        <sys_id>489b5455477d115024e32782846d43b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl Sn Niem Drug Street Name</sys_name>
+        <sys_package display_value="NIEM Drug" source="sn_niem_drug">ab6b3fcd11311110fa9b29f50eded926</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Drug">ab6b3fcd11311110fa9b29f50eded926</sys_scope>
+        <sys_update_name>sys_db_object_489b5455477d115024e32782846d43b9</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:56:56</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NIEM Drug">ab6b3fcd11311110fa9b29f50eded926</application>
+        <file_path/>
+        <instance_id>452b90e0db6919908aea21c40596198f</instance_id>
+        <instance_name>deamosdemo</instance_name>
+        <name>sys_db_object_489b5455477d115024e32782846d43b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Imp Tmpl Sn Niem Drug Street Name</label><live_feed_enabled>false</live_feed_enabled><name>u_imp_tmpl_sn_niem_drug_street_name</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">6a0e50e04721111024e32782846d4397</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>marc.mouries</sys_created_by><sys_created_on>2022-09-06 14:56:56</sys_created_on><sys_id>489b5455477d115024e32782846d43b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Imp Tmpl Sn Niem Drug Street Name</sys_name><sys_package display_value="NIEM Drug" source="sn_niem_drug">ab6b3fcd11311110fa9b29f50eded926</sys_package><sys_policy/><sys_scope display_value="NIEM Drug">ab6b3fcd11311110fa9b29f50eded926</sys_scope><sys_update_name>sys_db_object_489b5455477d115024e32782846d43b9</sys_update_name><sys_updated_by>marc.mouries</sys_updated_by><sys_updated_on>2022-09-06 14:56:56</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1726783105</payload_hash>
+        <record_name>Imp Tmpl Sn Niem Drug Street Name</record_name>
+        <reverted_from/>
+        <source>1916c451473d115024e32782846d4370</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2022-09-06 14:56:56</sys_created_on>
+        <sys_id>849b5455477d115024e32782846d43d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183134de81e0000001</sys_recorded_at>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:56:56</sys_updated_on>
+        <type>Table</type>
+        <update_guid>009b54551a7d1150c2b06733032bd6d8</update_guid>
+        <update_guid_history>009b54551a7d1150c2b06733032bd6d8:1726783105</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2022-09-06 15:36:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>3dc4449de93542a099d9d36f6e48c400</sys_id>
+        <sys_metadata>489b5455477d115024e32782846d43b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl Sn Niem Drug Street Name</sys_name>
+        <sys_package display_value="NIEM Drug" source="sn_niem_drug">ab6b3fcd11311110fa9b29f50eded926</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Drug">ab6b3fcd11311110fa9b29f50eded926</sys_scope>
+        <sys_scope_delete display_value="">412066780f5c46ba96f1db8dc549bf84</sys_scope_delete>
+        <sys_update_name>sys_db_object_489b5455477d115024e32782846d43b9</sys_update_name>
+        <sys_update_version display_value="sys_db_object_489b5455477d115024e32782846d43b9">849b5455477d115024e32782846d43d8</sys_update_version>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2022-09-06 15:36:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

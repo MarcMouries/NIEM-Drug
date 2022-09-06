@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Drug Slang" max_length="40" name="sn_niem_drug_slang" type="collection">
+        <element label="Associated Drug" max_length="100" name="associated_drug" type="string"/>
+        <element label="Slang" max_length="40" name="slang" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="street_name" label="Street name" language="en" table="sn_niem_drug_street_name">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>street_name</element>
+            <help/>
+            <hint/>
+            <label>Street name</label>
+            <language>en</language>
+            <name>sn_niem_drug_street_name</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>marc.mouries</sys_created_by>
+            <sys_created_on>2022-09-06 14:50:14</sys_created_on>
+            <sys_id>860a1015477d115024e32782846d4390</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Street name</sys_name>
+            <sys_package display_value="NIEM Drug" source="sn_niem_drug">ab6b3fcd11311110fa9b29f50eded926</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NIEM Drug">ab6b3fcd11311110fa9b29f50eded926</sys_scope>
+            <sys_update_name>sys_documentation_sn_niem_drug_street_name_street_name_en</sys_update_name>
+            <sys_updated_by>marc.mouries</sys_updated_by>
+            <sys_updated_on>2022-09-06 14:50:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
